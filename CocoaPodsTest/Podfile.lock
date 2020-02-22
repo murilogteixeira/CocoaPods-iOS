@@ -1,0 +1,16 @@
+PODS:
+  - ButtonProgressBar-iOS (1.0.1)
+
+DEPENDENCIES:
+  - ButtonProgressBar-iOS
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ButtonProgressBar-iOS
+
+SPEC CHECKSUMS:
+  ButtonProgressBar-iOS: 1127f15c7ab843648febc857fc2018c8224675c7
+
+PODFILE CHECKSUM: bfccdd9a20717f25ab927fa76ed52c6fb8e4e101
+
+COCOAPODS: 1.7.4
